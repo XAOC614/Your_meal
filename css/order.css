@@ -57,6 +57,9 @@
 .order__list{
     margin-bottom: 13px;
 }
+.order__item{
+
+}
 .order__total{
     display: flex;
     align-items: center;
