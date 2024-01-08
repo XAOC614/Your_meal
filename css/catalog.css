@@ -26,6 +26,9 @@
         display: flex;
         gap: 30px;
     }
+    .catalog__order{
+        padding-top: 72px;
+    }
     .catalog__wrapper{
         flex-grow: 1;
     }
